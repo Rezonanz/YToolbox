@@ -1,0 +1,13 @@
+﻿{
+  "name": "YellowJelloGames.YDataStructure.Tests",
+  "references": [
+    "GUID:422316bb4d074038b0753cc62527dde8",
+    "GUID:6c56e6db06e049938638ada0dc1670bb"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

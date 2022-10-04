@@ -1,0 +1,12 @@
+﻿{
+  "name": "YellowJelloGames.Toolbox.Extensions.Tests.Editor",
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "references": [
+    "GUID:6c56e6db06e049938638ada0dc1670bb"
+  ]
+}
