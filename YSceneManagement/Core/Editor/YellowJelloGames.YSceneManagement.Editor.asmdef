@@ -1,0 +1,11 @@
+﻿{
+  "name": "YellowJelloGames.YSceneManagement.Editor",
+  "includePlatforms": [
+    "Editor"
+  ],
+  "references": [
+    "guid:9e24947de15b9834991c9d8411ea37cf",
+    "guid:bde72bda93a745c3bdb86de2bbc25caa",
+    "guid:4f04a5afc82c401394571252e90293f5"
+  ]
+}
